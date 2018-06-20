@@ -1,0 +1,28 @@
+[
+{
+"T":"CSE",
+"NOE":"Computer Science & Engineering",
+"NPU":"Jeet/year"
+},
+{
+"T":"EEE",
+"NOE":"Electrical & Electronic Engineering",
+"NPU":"Jeet/year"
+},
+{
+"T":"ECE",
+"NOE":"Electrical Communication Engineering",
+"NPU":"Jeet/year"
+},
+{
+"T":"Civil",
+"NOE":"Civil Engineering",
+"NPU":"Jeet/year"
+},
+{
+"T":"Mech",
+"NOE":"Mechanical Engineering",
+"NPU":"Jeet/year"
+}
+
+]

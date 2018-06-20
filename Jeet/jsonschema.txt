@@ -1,0 +1,88 @@
+-----------------------------------com.example.Example.java-----------------------------------
+
+package com.example;
+
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
+
+public class Example {
+
+@SerializedName("HallticketNo")
+@Expose
+private String hallticketNo;
+@SerializedName("SubjectCode")
+@Expose
+private String subjectCode;
+@SerializedName("SubjectName")
+@Expose
+private String subjectName;
+@SerializedName("InternalMarks")
+@Expose
+private String internalMarks;
+@SerializedName("ExternalMarks")
+@Expose
+private String externalMarks;
+@SerializedName("TotalMarks")
+@Expose
+private String totalMarks;
+@SerializedName("Credits")
+@Expose
+private String credits;
+
+public String getHallticketNo() {
+return hallticketNo;
+}
+
+public void setHallticketNo(String hallticketNo) {
+this.hallticketNo = hallticketNo;
+}
+
+public String getSubjectCode() {
+return subjectCode;
+}
+
+public void setSubjectCode(String subjectCode) {
+this.subjectCode = subjectCode;
+}
+
+public String getSubjectName() {
+return subjectName;
+}
+
+public void setSubjectName(String subjectName) {
+this.subjectName = subjectName;
+}
+
+public String getInternalMarks() {
+return internalMarks;
+}
+
+public void setInternalMarks(String internalMarks) {
+this.internalMarks = internalMarks;
+}
+
+public String getExternalMarks() {
+return externalMarks;
+}
+
+public void setExternalMarks(String externalMarks) {
+this.externalMarks = externalMarks;
+}
+
+public String getTotalMarks() {
+return totalMarks;
+}
+
+public void setTotalMarks(String totalMarks) {
+this.totalMarks = totalMarks;
+}
+
+public String getCredits() {
+return credits;
+}
+
+public void setCredits(String credits) {
+this.credits = credits;
+}
+
+}

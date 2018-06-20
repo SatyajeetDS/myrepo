@@ -1,0 +1,23 @@
+[
+{
+"HallticketNo"     :      "145D1A0562",
+"SubjectCode"      :      " 113AU ",
+"SubjectName"      :      " Data Structure ",
+"InternalMarks"    :      " 25 ",
+"ExternalMarks"    :      " 75 ",
+"TotalMarks"       :      " 100 ",
+"Credits"          :      " 4 "
+},
+{
+"HallticketNo"     :      "145D1A0562",
+"SubjectCode"      :      " 113AU ",
+"SubjectName"      :      " Data Structure ",
+"InternalMarks"    :      " 25 ",
+"ExternalMarks"    :      " 75 ",
+"TotalMarks"       :      " 100 ",
+"Credits"          :      " 4 "
+
+}
+
+
+]

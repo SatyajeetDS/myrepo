@@ -1,0 +1,32 @@
+[
+{
+"T":"1",
+"NOE":" 1st Year ",
+"NPU":"Jeet/exam"
+},
+{
+"T":"1-1",
+"NOE":"1st Year - 1st semester ",
+"NPU":"Jeet/exam"
+},
+{
+"T":"1-2",
+"NOE":"1st Year - 2nd semester",
+"NPU":"Jeet/exam"
+},
+{
+"T":"2-1",
+"NOE":"2nd Year - 1st semester",
+"NPU":"Jeet/exam"
+},
+{
+"T":"2-2",
+"NOE":"2nd Year - 2nd semester",
+"NPU":"Jeet/exam"
+},
+{
+"T":"3-1",
+"NOE":"3rd Year - 1st semester",
+"NPU":"Jeet/exam"
+}
+]

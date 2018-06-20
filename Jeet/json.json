@@ -1,0 +1,17 @@
+[
+  {
+    "FirstName": "Jimmy",
+    "LastName": "Cricket",
+    "Address": "Arizona"
+  },
+  {
+    "FirstName": "Freddy",
+    "LastName": "Foxx",
+    "Address": "Washington State"
+  },
+  {
+    "FirstName": "Louis",
+    "LastName": "Jones",
+    "Address": "Texas"
+  }
+  ]

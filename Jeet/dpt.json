@@ -1,0 +1,23 @@
+[
+{
+"T":"B.Tech",
+"NOE":" Bachelor of Technology",
+"NPU":"Jeet/branch"
+},
+{
+"T":"Diploma",
+"NOE":"Diploma",
+"NPU":"Jeet/branch"
+},
+{
+"T":"M.Tech",
+"NOE":" Master of Technology",
+"NPU":"Jeet/branch"
+},
+{
+"T":"Phar",
+"NOE":"Pharmacy",
+"NPU":"Jeet/branch"
+}
+
+]
